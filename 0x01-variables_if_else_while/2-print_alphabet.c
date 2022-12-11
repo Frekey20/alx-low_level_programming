@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-*Main- where the main codes are left
+*Main - where the main codes are left
 *Return: Always 0
 */
 int main(void)
