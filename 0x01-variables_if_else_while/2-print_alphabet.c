@@ -1,4 +1,4 @@
-#include <ssttdio.h>
+#include <stdio.h>
 
 /**
 *Main- where the main codes are left
@@ -12,6 +12,6 @@ int main(void)
 	{
 		putchar(lower_case);
 	}
-	putchar("\n")
+	putchar('\n');
 	return (0);
 }
