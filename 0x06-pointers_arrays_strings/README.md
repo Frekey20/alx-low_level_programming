@@ -1,1 +1,1 @@
-MY README FILE FOR THE 0x06-pointers_arrays_strings
+0X06 more pointers and array readme
