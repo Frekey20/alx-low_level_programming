@@ -23,18 +23,3 @@ char *_strcat(char *dest, char *src)
 	dest[s + i] = 0;
 	return (dest);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
