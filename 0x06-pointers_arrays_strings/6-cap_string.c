@@ -1,4 +1,3 @@
-Task 6.txt
 #include "main.h"
 
 /**
