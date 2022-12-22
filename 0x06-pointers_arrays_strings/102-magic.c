@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
-*main - the codee block
-*Return: always return 0
-*/
-
 int main(void)
 {
 	int n;
