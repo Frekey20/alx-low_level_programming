@@ -45,7 +45,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 		cutie_dog->owner = _strcpy(cutie_dog->owner, owner);
 		cutie_dog->age = age;
 	}
-	return (cutie_dog);	
+	return (cutie_dog);
 }
 /**
  *  _strlen - Returns the length of a string
